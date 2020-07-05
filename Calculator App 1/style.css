@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color: cadetblue;
+    padding-top: 50px;
+}
+.main{
+    border: 2px solid brown;
+    width: 220px;
+    margin: 0px auto;
+}
+.input>input{
+    width: 216px;
+    height: 100px;
+    background-color:whitesmoke;
+    color:black;
+}
+.downhalf{
+    background-color: brown;
+}
+.btn {
+    background-color: coral;
+    width: 37px;
+    margin: 1px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 6px 6px;
+}
